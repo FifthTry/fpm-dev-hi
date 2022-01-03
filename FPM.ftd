@@ -1,6 +1,6 @@
 -- import: fpm
 
--- fpm.package: fifthtry.github.io/fpm.dev-hi/
+-- fpm.package: fpm-dev-hi.vercel.app
 zip: github.com/fifthtry/fpm.dev-hi/archive/refs/heads/main.zip
 language: hi
 translation-of: fpm-dev.vercel.app
@@ -16,7 +16,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
 
 -- fpm.translation-status-count: 
 never-marked: 2
-missing: 26
+missing: 35
 out-dated: 0
 upto-date: 0
 last-modified-on: 2022-01-03T09:18:01.844151+00:00
