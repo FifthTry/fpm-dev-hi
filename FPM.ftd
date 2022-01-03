@@ -1,11 +1,11 @@
 -- import: fpm
 
--- fpm.package: fifthtry.github.io/fpm-dev-hi/
-zip: github.com/fifthtry/fpm-dev-hi/archive/refs/heads/main.zip
+-- fpm.package: fifthtry.github.io/fpm.dev-hi/
+zip: github.com/fifthtry/fpm.dev-hi/archive/refs/heads/main.zip
 language: hi
-translation-of: fifthtry.github.io/fpm-dev-en
+translation-of: fpm-dev.vercel.app
 
--- fpm.dependency: fifthtry.github.io/Flash-theme
+-- fpm.dependency: fifthtry.github.io/Jupiter-theme
 
 -- fpm.font: Open Sans
 woff2: https://fonts.gstatic.com/s/opensans/v27/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2
@@ -15,10 +15,10 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
 
 
 -- fpm.translation-status-count: 
-never-marked: 3
-missing: 23
+never-marked: 2
+missing: 26
 out-dated: 0
 upto-date: 0
-last-modified-on: 2021-12-30T12:59:01.338513+00:00
+last-modified-on: 2022-01-03T09:18:01.844151+00:00
 
 
