@@ -5,7 +5,12 @@ zip: github.com/fifthtry/fpm.dev-hi/archive/refs/heads/main.zip
 language: hi
 translation-of: fpm.dev
 
--- fpm.dependency: fifthtry.github.io/Jupiter-theme
+-- fpm.dependency: fifthtry.github.io/Forest-Theme as ft
+
+-- fpm.auto-import: ft
+-- fpm.auto-import: fpm.dev/FPM/config
+-- fpm.auto-import: fpm
+
 
 
 -- fpm.font: apple-system
