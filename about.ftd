@@ -1,7 +1,7 @@
--- ft.doc-page:
+-- ft.page-with-toc: `fpm` के बारे में
 toc: $ft.toc
 
--- ft.h0: `fpm` के बारे में
+-- ft.markdown: 
 
 [`ftd`](https://ftd.dev) वेब पेज या दस्तावेज़ बनाने के लिए एक {भाषा} है। यह मार्कडाउन से 
 शुरू होता है, लेकिन पूर्ण बनाने के लिए सुविधाओं को जोड़ता है पृष्ठ लेआउट, आपको पुन: प्रयोज्य 
@@ -16,8 +16,8 @@ toc: $ft.toc
 
 
 -- ftd.text language: This is the language
-background-color if not $fpm.dark-mode: yellow
-color if $fpm.dark-mode: yellow
+background-color if not $ftd.dark-mode: yellow
+color if $ftd.dark-mode: yellow
 
 
 -- ft.h1: `fpm-repo`
